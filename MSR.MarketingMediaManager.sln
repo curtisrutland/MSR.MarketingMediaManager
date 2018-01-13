@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSR.MarketingMediaManager", "MSR.MarketingMediaManager\MSR.MarketingMediaManager.csproj", "{A7839C6E-58F9-405D-8219-70D8D844F711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSR.MarketingMediaManager.Types", "MSR.MarketingMediaManager.Types\MSR.MarketingMediaManager.Types.csproj", "{7D6ED043-D681-4112-BA52-CD749A2D35BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7839C6E-58F9-405D-8219-70D8D844F711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7839C6E-58F9-405D-8219-70D8D844F711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7839C6E-58F9-405D-8219-70D8D844F711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7839C6E-58F9-405D-8219-70D8D844F711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6ED043-D681-4112-BA52-CD749A2D35BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6ED043-D681-4112-BA52-CD749A2D35BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6ED043-D681-4112-BA52-CD749A2D35BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6ED043-D681-4112-BA52-CD749A2D35BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63367588-9676-46B1-8436-57164F260080}
+	EndGlobalSection
+EndGlobal
